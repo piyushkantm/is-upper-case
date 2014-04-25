@@ -1,6 +1,6 @@
 {
   "name": "is-upper-case",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Check if a string is upper cased",
   "main": "is-upper-case.js",
   "scripts": {
