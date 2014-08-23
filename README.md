@@ -19,7 +19,7 @@ npm install is-upper-case --save
 var isUpperCase = require('is-upper-case');
 
 isUpperCase('STRING'); //=> true
-isUpperCase('String'); //=> true
+isUpperCase('String'); //=> false
 isUpperCase('string'); //=> false
 ```
 
