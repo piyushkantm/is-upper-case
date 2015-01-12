@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "Check if a string is upper cased",
   "main": "is-upper-case.js",
+  "files": [
+    "is-upper-case.js",
+    "LICENSE"
+  ],
   "scripts": {
     "test": "istanbul cover _mocha -- -R spec"
   },
