@@ -32,6 +32,6 @@
     "pre-commit": "0.0.9"
   },
   "dependencies": {
-    "upper-case": "^1.0.0"
+    "upper-case": "^1.1.0"
   }
 }
