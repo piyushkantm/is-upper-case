@@ -8,4 +8,9 @@ describe('is upper case', function () {
     assert.equal(isUpperCase('test'), false);
     assert.equal(isUpperCase('Test'), false);
   });
+
+  it('should support different locales', function () {
+    assert.equal(isUpperCase('STRİNG', 'tr'), true);
+    assert.equal(isUpperCase('STRING', 'tr'), true);
+  });
 });
