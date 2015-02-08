@@ -9,18 +9,18 @@ Check if a string is upper case.
 
 ## Installation
 
-```sh
+```
 npm install is-upper-case --save
 ```
 
 ## Usage
 
 ```js
-var isUpperCase = require('is-upper-case');
+var isUpperCase = require('is-upper-case')
 
-isUpperCase('STRING'); //=> true
-isUpperCase('String'); //=> false
-isUpperCase('string'); //=> false
+isUpperCase('STRING') //=> true
+isUpperCase('String') //=> false
+isUpperCase('string') //=> false
 ```
 
 ## License
