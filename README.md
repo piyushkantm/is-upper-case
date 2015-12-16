@@ -23,6 +23,10 @@ isUpperCase('String') //=> false
 isUpperCase('string') //=> false
 ```
 
+## Typings
+
+Includes a [TypeScript definition](is-upper-case.d.ts).
+
 ## License
 
 MIT
