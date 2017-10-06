@@ -44,7 +44,7 @@
   "homepage": "https://github.com/blakeembrey/is-upper-case",
   "devDependencies": {
     "istanbul": "^0.4.5",
-    "mocha": "^3.3.0",
+    "mocha": "^4.0.1",
     "pre-commit": "^1.0.2",
     "standard": "^10.0.2"
   },
